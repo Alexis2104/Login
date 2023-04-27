@@ -1,0 +1,12 @@
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\PuntodeVenta\bin\Debug\PuntodeVenta.exe.config
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\PuntodeVenta\bin\Debug\PuntodeVenta.exe
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\PuntodeVenta\bin\Debug\PuntodeVenta.pdb
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\PuntodeVenta\obj\Debug\PuntodeVenta.csproj.AssemblyReference.cache
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\PuntodeVenta\obj\Debug\PuntodeVenta.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\PuntodeVenta\obj\Debug\PuntodeVenta.Properties.Resources.resources
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\PuntodeVenta\obj\Debug\PuntodeVenta.csproj.GenerateResource.cache
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\PuntodeVenta\obj\Debug\PuntodeVenta.csproj.CoreCompileInputs.cache
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\PuntodeVenta\obj\Debug\PuntodeVenta.exe
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\PuntodeVenta\obj\Debug\PuntodeVenta.pdb
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\PuntodeVenta\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\PuntodeVenta\obj\Debug\PuntodeVenta.frmPOS.resources

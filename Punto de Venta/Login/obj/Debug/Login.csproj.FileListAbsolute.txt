@@ -1,0 +1,11 @@
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\Login\bin\Debug\Login.exe.config
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\Login\bin\Debug\Login.exe
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\Login\bin\Debug\Login.pdb
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\Login\obj\Debug\Login.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\Login\obj\Debug\Login.frmLogin.resources
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\Login\obj\Debug\Login.exe
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\Login\obj\Debug\Login.pdb
