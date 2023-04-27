@@ -22,31 +22,38 @@ namespace Login
         //Base de datos
         public void login()
         {
-            try {
+            try
+            {
                 //Llamar a Cnn
                 string cnn = ConfigurationManager.ConnectionStrings["cnn"].ConnectionString;
                 //Usar Sql
                 using (SqlConnection conexion = new SqlConnection(cnn))
                 {
-                    using(SqlCommand cmd = new SqlCommand("SELECT User, Password FROM login Where User='"+ txtUser +"' AND Password'"+ txtPassword +"'", conexion))
+                    conexion.Open();
+                    using (SqlCommand cmd = new SqlCommand("SELECT usuario, Password FROM Users WHERE usuario='" + txtUser.Text + "' AND Password='" + txtPassword.Text + "'", conexion))
                     {
                         SqlDataReader dr = cmd.ExecuteReader();
                         if (dr.Read())
                         {
-                            MessageBox.Show("Exitoso");
+                            string user = dr.GetString(0);
+                            string password = dr.GetString(1);
+                            MessageBox.Show("User: " + user + ", Password: " + password);
+                            MessageBox.Show("Inicio de sesión exitoso");
+
                         }
                         else
                         {
-                            MessageBox.Show("Datos no encontrados");
+                            MessageBox.Show("Usuario o contraseña incorrectos");
                         }
                     }
                 }
-        }
+            }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.ToString());
+                MessageBox.Show("Ocurrió un error al iniciar sesión: " + ex.Message);
             }
         }
+
         //Fin de Base de datos
 
         public frmLogin()
@@ -131,6 +138,11 @@ namespace Login
         private void btnAcceder_Click(object sender, EventArgs e)
         {
             login();
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }
